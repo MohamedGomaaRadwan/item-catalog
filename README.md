@@ -1,6 +1,6 @@
 # Item Catalog
 
-the 4rd project udacity fullstack nanodegree
+a single page application featuring a list of menus
 
 # Files included
 
