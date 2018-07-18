@@ -14,7 +14,9 @@ a single page application featuring a list of menus
 
 - Virtual Box
 - Vagrant
-- Python , Flask ,  SQLAlchemy
+- Python
+- Flask
+- SQLAlchemy
 
 # Let's run our app
 
